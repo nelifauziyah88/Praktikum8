@@ -61,7 +61,7 @@ DELETE	/api/users/:id	Hapus user
 ```
 
 ### **Tautan Repository**
-➡️ 
+➡️ https://drive.google.com/file/d/1ZnV9BrXNT8oRJClBEiP1_oTMmeD2-wAB/view?usp=sharing
 
 ### **Teknologi yang Digunakan**
 * Node.js
