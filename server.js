@@ -7,7 +7,10 @@ app.use(express.json());
 
 // Routes
 const userRoutes = require('./routes/user.routes');
+const productRoutes = require("./routes/products.routes");
+
 app.use('/api/users', userRoutes);
+app.use("/api/products", productRoutes);
 
 app.get('/', (req, res) => {
   res.send('Hello, World');
