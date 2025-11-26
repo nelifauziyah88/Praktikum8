@@ -65,6 +65,8 @@ DELETE	/api/users/:id	Hapus user
 
 ➡️ Praktikum 9 : https://drive.google.com/file/d/18Qmu4QZwqEo1TTobuxcBdscrtflQeHDk/view?usp=sharing
 
+➡️ Praktikum 10 : https://drive.google.com/file/d/16JXwyWTpSl7muNDVbDVkvkBYi9ioN9ji/view?usp=sharing
+
 ### **Teknologi yang Digunakan**
 * Node.js
 * Express.js
